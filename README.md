@@ -4,7 +4,7 @@
 ## Sodium: Vim 2.0
 
 **Sodium** is an editor inspired by Vim (but not a clone). It aims to be efficient, fast, and productive.
-![](optional_background.jpg)
+
 [![Travis Build Status](https://travis-ci.org/redox-os/sodium.svg?branch=master)](https://travis-ci.org/redox-os/sodium)
 
 ### Library Requirements
@@ -15,3 +15,6 @@ To install on Ubuntu, use the following command: `sudo apt-get install libsdl2-d
 ### Build
 
 Use `cargo run --features orbital` in order to build the program.
+
+<img src="./optional_background.jpg">
+"It's sodium chloride"
