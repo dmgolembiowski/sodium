@@ -16,5 +16,5 @@ To install on Ubuntu, use the following command: `sudo apt-get install libsdl2-d
 
 Use `cargo run --features orbital` in order to build the program.
 
-<img src="./optional_background.jpg">
+<img src="./optional_background.jpg" height="200">
 "It's sodium chloride"
