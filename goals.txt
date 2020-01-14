@@ -1,0 +1,5 @@
+Ideas and Goals for Sodium
+--------------------------
+
+Clean up https://github.com/dmgolembiowski/log and find a way to
+add add "~/.rustup/.sodiumrc" and "~/.rustup/.sodium/{plugin,pack,bundle,logs,ledgers,tmp}"
